@@ -1,33 +1,44 @@
-.App {
-  text-align: center;
+@import-normalize;
+/*
+---------- body styling
+*/
+body {
+  background-color: #e9ebee;
+  color: #16161d;
+  overflow-y: scroll;
+  font-size: 13px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, ".SFNSText-Regular",
+    sans-serif;
 }
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+/*
+---------- anchor tag styling
+*/
+a {
+  color: #4267b2;
+  text-decoration: none;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+a:hover {
+  text-decoration: underline;
 }
-
-.App-link {
-  color: #61dafb;
+nav a {
+  color: whitesmoke;
+  margin: 0 5px;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 5px 10px;
+  margin-top: 2px;
+  float: right;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+nav a:hover {
+  background-color: #385898;
+  text-decoration: none;
+}
+/*
+---------- profile component styling
+*/
+.profile-ul li:hover {
+  background-color: #f5f6f7;
+}
+.profile-ul a:hover {
+  text-decoration: none;
 }
