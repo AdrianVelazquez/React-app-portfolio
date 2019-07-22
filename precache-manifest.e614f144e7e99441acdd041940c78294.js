@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af65ff30c2300944f22e3883eb38fb8b",
+    "revision": "b7ec58071a899ac184cde19169b3a1b9",
     "url": "/React-app-portfolio/index.html"
   },
   {
-    "revision": "e01a907cb68f693892f4",
+    "revision": "08d94833c98f4ecce8f2",
     "url": "/React-app-portfolio/static/css/main.0add3b37.chunk.css"
   },
   {
-    "revision": "6253f51732b89352c323",
-    "url": "/React-app-portfolio/static/js/2.559c6a89.chunk.js"
+    "revision": "b0f1640595b69c5fc03b",
+    "url": "/React-app-portfolio/static/js/2.1dc03983.chunk.js"
   },
   {
-    "revision": "e01a907cb68f693892f4",
-    "url": "/React-app-portfolio/static/js/main.8fbeeab9.chunk.js"
+    "revision": "08d94833c98f4ecce8f2",
+    "url": "/React-app-portfolio/static/js/main.e9bf17b7.chunk.js"
   },
   {
     "revision": "9a6f66462eaf89348c74",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "786c18b92e12e1e217b62f3ed2befbd8",
     "url": "/React-app-portfolio/static/media/TMobile.786c18b9.zip"
+  },
+  {
+    "revision": "a9442c2739ea3bcb0d1ae6b59d8a8aca",
+    "url": "/React-app-portfolio/static/media/about.a9442c27.jpg"
   },
   {
     "revision": "0df6e87e49e25d6940f883e78b59f71f",
@@ -84,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-app-portfolio/static/media/me.a226a9ba.jpg"
   },
   {
-    "revision": "4e89bb819832648308c38ff8fee5f1f2",
-    "url": "/React-app-portfolio/static/media/resume.4e89bb81.pdf"
+    "revision": "3e52dce5dfc35dd4010439e447725037",
+    "url": "/React-app-portfolio/static/media/resume.3e52dce5.pdf"
   },
   {
     "revision": "93e6cd8a754abf5e9e212a03edb94504",
