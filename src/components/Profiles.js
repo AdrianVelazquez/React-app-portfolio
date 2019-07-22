@@ -90,7 +90,7 @@ function Profiles() {
         <li style={liStyles}>
           <Tools width="25px" height="25px" />
           <a
-            href="https://hireadrianv.wixsite.com/adrianvelazquez"
+            href="https://github.com/AdrianVelazquez/projects"
             target="_blank"
             rel="noopener noreferrer"
             style={liaStyles}

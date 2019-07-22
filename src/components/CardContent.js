@@ -58,11 +58,14 @@ const CardContent = props => (
       <header>{props.content.header}</header>
     </div>
     <div style={cardInfo}>
-      <hr />
       <img src={props.content.postImgUrl} width="100%" />
       <div id="card-info">
+        <hr />
         <p>{props.content.info}</p>
         <p>{props.content.extendedInfo}</p>
+        <p style={{ fontWeight: "400", fontStyle: "italic" }}>
+          {props.content.stackInfo}
+        </p>
         <p style={{ fontWeight: "600" }}>{props.content.projectsInfo}</p>
       </div>
     </div>
